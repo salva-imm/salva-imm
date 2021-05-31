@@ -2,8 +2,6 @@
 
 ⚡ I'm a passionate python developer
 
-🌱 I’m currently learning Rust and Nim
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salva-imm&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
