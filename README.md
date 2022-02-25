@@ -8,4 +8,4 @@
 [![Salvador's github stats](https://github-readme-stats.vercel.app/api?username=salva-imm&show_icons=true&theme=gotham)](https://github.com/salva-imm/github-readme-stats)
 
 
-https://github-profile-trophy.vercel.app/?username=salva-imm&theme=onedark
+[![trophy](https://github-profile-trophy.vercel.app/?username=salva-imm&theme=onedark)](https://github.com/salva-imm/github-profile-trophy)
