@@ -11,8 +11,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=salva-imm&theme=onedark)](https://github.com/salva-imm/github-profile-trophy)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salva-imm&show_icons=true&locale=en&layout=compact" alt="salva-imm" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salva-imm&show_icons=true&locale=en" alt="salva-imm" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salva-imm&" alt="salva-imm" /></p>
