@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ I'm a passionate python developer
+⚡ I'm a passionate python developer and rust enthusiast
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salva-imm&hide=html,css&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
