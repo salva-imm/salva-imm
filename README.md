@@ -2,7 +2,7 @@
 <h3> Software engineer </h3>
 <ul>
     <li>⚡ Rusty proficient in python : )) </li>
-    <li>⚡ Blockchain enthusiast </li>
+    <li>🌱 Blockchain enthusiast </li>
 </ul>
 <hr>
 
