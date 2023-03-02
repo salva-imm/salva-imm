@@ -3,6 +3,8 @@
 <ul>
     <li>⚡ Rusty proficient in python : )) </li>
     <li>🌱 Blockchain enthusiast </li>
+    <li>🔥 Transhumanism & Cyborgs lover </li>
+    
 </ul>
 <hr>
 
