@@ -6,9 +6,9 @@
 </ul>
 <hr>
 
-|￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣| <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; #Blockchain is the future…… <br>
-|＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿| <br>
+|￣￣￣￣￣￣￣￣￣￣￣￣￣￣| <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Futurist .. <br>
+|＿＿＿＿＿＿＿＿＿＿＿＿＿＿| <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \ (👀) / <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; / <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; —— <br>
