@@ -26,14 +26,7 @@
 
 <hr>
 
-<h2>Stats</h2>
 
-<a href="https://github-readme-stats.vercel.app">
-    <img style="width:49%;" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=salva-imm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github-readme-streak-stats.herokuapp.com">
-    <img style="width:49%;" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=salva-imm&"/>
-</a>
 
 
 
