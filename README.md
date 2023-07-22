@@ -1,12 +1,12 @@
 
-<h3> Software engineer </h3>
-<ul>
+<h3> Techlad && Senior Software engineer </h3>
+<!-- <ul>
     <li>⚡ Rusty proficient in python : )) </li>
     <li>🌱 Blockchain enthusiast </li>
     <li>🔥 Transhumanism & Cyborgs lover </li>
     <li>🧠 Could be a way to bring deads back to life, forcefully!! </li>
     
-</ul>
+</ul> -->
 <hr>
 
 |￣￣￣￣￣￣￣￣￣￣￣￣￣￣| <br>
