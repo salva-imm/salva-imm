@@ -1,5 +1,5 @@
 
-<h3> Techlad && Senior Software engineer </h3>
+<h3> TechLead && Senior Software engineer </h3>
 <!-- <ul>
     <li>⚡ Rusty proficient in python : )) </li>
     <li>🌱 Blockchain enthusiast </li>
