@@ -5,7 +5,7 @@
 
 ||||
 |:--------------------------------------|:-----------------------------------------:|:-----------------------------------------:|
-| <ul><li>⚡ Rusty proficient in python : )) </li><li>🌱 Blockchain enthusiast </li><li>🔥 Transhumanism & Cyborgs lover </li><!-- <li>🧠 Could be a way to bring deads back to life, forcefully!! </li> --></ul> | <img align="center" width="300" alt="madara" src="madara-madara-uchiha.2.gif">  | <img align="center" width="300" alt="madara" src="madara-madara-uchiha.2.gif"> |
+| <ul><li>⚡ Rusty proficient in python : )) </li><li>🌱 Blockchain enthusiast </li><li>🔥 Transhumanism & Cyborgs lover </li><!-- <li>🧠 Could be a way to bring deads back to life, forcefully!! </li> --></ul> | <img align="center" width="300" alt="madara" src="madara-madara-uchiha.2.gif">  | <img align="center" width="300" alt="madara" src="futurist.png"> |
 
 
 
