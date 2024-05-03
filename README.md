@@ -1,18 +1,17 @@
 
 <h3> TechLead && Senior Software engineer </h3>
-<img align="center" width="560" alt="madara" src="madara-madara-uchiha.2.gif">
-<hr>
- <ul>
-    <li>⚡ Rusty proficient in python : )) </li>
-    <li>🌱 Blockchain enthusiast </li>
-    <li>🔥 Transhumanism & Cyborgs lover </li>
-    <!-- <li>🧠 Could be a way to bring deads back to life, forcefully!! </li> -->
-    
-</ul> 
 
 <hr>
 
-|￣￣￣￣￣￣￣￣￣￣￣￣￣￣| <br>
+|||
+|:--------------------------------------|:-----------------------------------------:|
+| <ul><li>⚡ Rusty proficient in python : )) </li><li>🌱 Blockchain enthusiast </li><li>🔥 Transhumanism & Cyborgs lover </li><!-- <li>🧠 Could be a way to bring deads back to life, forcefully!! </li> --></ul> | <img align="center" width="300" alt="madara" src="madara-madara-uchiha.2.gif">  |
+
+
+
+<hr>
+
+ |￣￣￣￣￣￣￣￣￣￣￣￣￣￣| <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Futurist .. <br>
 |＿＿＿＿＿＿＿＿＿＿＿＿＿＿| <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \ (👀) / <br>
@@ -20,7 +19,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; —— <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|_ &nbsp; |_ <br>
-
 
 |||
 |:--------------------------------------:|:-----------------------------------------:|
