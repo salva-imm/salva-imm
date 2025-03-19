@@ -1,6 +1,3 @@
-
-<h3> TechLead && Senior Software engineer </h3>
-
 <hr>
 
 ||||
